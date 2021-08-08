@@ -55228,7 +55228,7 @@ f=T.bu(H.a([U.fZ("assets/projects/TensorFlow_logo.png",f),T.cm(k,j*0.05,k),U.fZ(
 L.aJ("",k,k,k,k)
 L.aJ("",k,k,k,k)
 L.aJ("",k,k,k,k)
-return T.zN(T.bu(H.a([new T.cu(new V.aL(0,i,0,0),g,k),new T.cu(new V.aL(h*0.1,i,0,0),T.bN(H.a([new T.bU(new S.ae(0,h*0.45,0,1/0),f,k),new T.bU(new S.ae(0,h*0.75,0,j*0.45),B.SG(H.a([new A.hP(u.H,"My Career",k),new A.hP(u.L,"My Roles",k),new A.hP(u.r,"Our Achievements",k)],c),C.l),k)],c),C.x,C.c2,C.a5),k)],c),C.x,C.q,C.p),k,k,new T.Bj(k),new P.O(a0.b,a0.d))},
+return T.zN(T.bu(H.a([new T.cu(new V.aL(0,i,0,0),g,k),new T.cu(new V.aL(h*0.1,i,0,0),T.bN(H.a([new T.bU(new S.ae(0,h*0.45,0,1/0),f,k),new T.bU(new S.ae(0,h*0.75,0,j*0.45),B.SG(H.a([new A.hP(u.H,"Theory",k),new A.hP(u.L,"Practise",k),new A.hP(u.r,"Pneudomia AI",k)],c),C.l),k)],c),C.x,C.c2,C.a5),k)],c),C.x,C.q,C.p),k,k,new T.Bj(k),new P.O(a0.b,a0.d))},
 $S:116}
 T.Bj.prototype={
 az:function(a,b){var s,r,q,p,o,n,m,l=H.ar(),k=l?H.aY():new H.aP(new H.aT())
